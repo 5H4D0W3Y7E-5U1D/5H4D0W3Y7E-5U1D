@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @5H4D0W3Y7E-5U1D
-- 👀 I’m interested in Offensive Security
-- 🌱 I’m currently learning Pentesting
-- 💞️ I'm preparing for EC-COUNCIL CEH
+- 👀 I am Certified Ethical Hacker
+- 🌱 I’m interested in Offensive Security
 - 📫 How to reach me by email:- atharvalawate97@gmail.com, IG DMS:- TheAtharvalawate
 
 <!---
